@@ -7,11 +7,11 @@ This is my **first Git project**.
 ---
 
 ## Table of Contents
-- [Features]
-- [Technologies Used]
-- [Installation]
-- [Usage]
-- [Author]
+- Features
+- Technologies Used
+- Installation
+- Usage
+- Author
 
 ---
 
