@@ -1,21 +1,53 @@
-# First-project
-New Github Repository
+# First-project  
+### Login Page
 
-# Project Name :- Login Page
+This project is created to practice basic web development concepts.  
+This is my **first Git project**.
 
-This project is created to practice.
-<br>
-This is My First Git Project.
+---
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [Author](#author)
+- [Features]
+- [Technologies Used]
+- [Installation]
+- [Usage]
+- [Author]
 
+---
+
+## Features
+- Simple login form
+- Username and password validation
+- Beginner-friendly JavaScript logic
+
+---
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rahul-cmd1/First-project.git
+
+## Usage
+- Enter username and password
+- Click on the login button
+- Displays success or error message based on input
+
+---
+
+## Contributing
+
+- This is a learning project.
+- Suggestions and improvements are welcome.
+
+---
 
 ## Author
 Rajneesh Kumar Singh
