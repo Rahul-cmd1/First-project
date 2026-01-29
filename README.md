@@ -50,6 +50,6 @@ This is my **first Git project**.
 ---
 
 ## Author
-Rajneesh Kumar Singh
+- Author Name : Rajneesh Kumar Singh
 - GitHub: [Rahul-cmd1](https://github.com/Rahul-cmd1)
 - Email: rkrock933@gmail.com
